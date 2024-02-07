@@ -1,0 +1,7 @@
+.button{
+    background-color: #42FF00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+}
